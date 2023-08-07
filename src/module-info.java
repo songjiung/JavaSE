@@ -4,5 +4,5 @@
 /**
  * 
  */
-module javaSE {
+module JavaSE {
 }
